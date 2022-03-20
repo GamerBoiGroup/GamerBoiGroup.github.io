@@ -55,6 +55,7 @@ body {
 #topbar .logo {
   float: left;
   font-size: 30px;
+  font-weight: bold;
   padding: 15px 0 0 10px;
   -webkit-transition: all 250ms ease-out;
   -ms-transition: all 250ms ease-out;
