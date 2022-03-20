@@ -38,7 +38,14 @@ body {
   transition: all 250ms ease-out;
 }
 
-#toplinks li a:hover {
+#sololink:hover {
+  color: #fdb;
+  -webkit-transition: all 250ms ease-out;
+  -ms-transition: all 250ms ease-out;
+  transition: all 250ms ease-out;
+}
+
+#discordlink:hover {
   color: #bbf;
   -webkit-transition: all 250ms ease-out;
   -ms-transition: all 250ms ease-out;
