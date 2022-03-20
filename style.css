@@ -11,6 +11,39 @@ body {
   height: 60px;
 }
 
+#toplinks {
+  float: right;
+  padding: 15px 0 0 15px;
+}
+
+#toplinks ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#toplinks li {
+  float: left;
+}
+
+#toplinks li a {
+  color: #fff;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  -webkit-transition: all 250ms ease-out;
+  -ms-transition: all 250ms ease-out;
+  transition: all 250ms ease-out;
+}
+
+#toplinks li a:hover {
+  color: #bbf;
+  -webkit-transition: all 250ms ease-out;
+  -ms-transition: all 250ms ease-out;
+  transition: all 250ms ease-out;
+}
+
 #topbar .logo {
   float: left;
   font-size: 30px;
