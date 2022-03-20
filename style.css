@@ -3,3 +3,17 @@ body {
   color: #fff;
   font-family: "Raleway", sans-serif;
 }
+
+#topbar {
+  background-color: #222;
+  height: 60px;
+}
+
+#topbar .logo {
+  float: left;
+  font-size: 30px;
+}
+
+#topbar .logo:hover {
+  color: #bfb;
+}
