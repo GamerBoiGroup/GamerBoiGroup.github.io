@@ -11,7 +11,7 @@ body {
   bottom: 0;
   background-color: #222;
   text-align: center;
-  min-width: 400px;
+  min-width: 100%;
 }
 
 #topbar {
