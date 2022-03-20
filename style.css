@@ -48,8 +48,14 @@ body {
   float: left;
   font-size: 30px;
   padding: 15px 0 0 15px;
+  -webkit-transition: all 250ms ease-out;
+  -ms-transition: all 250ms ease-out;
+  transition: all 250ms ease-out;
 }
 
 #topbar .logo:hover {
   color: #bfb;
+  -webkit-transition: all 250ms ease-out;
+  -ms-transition: all 250ms ease-out;
+  transition: all 250ms ease-out;
 }
