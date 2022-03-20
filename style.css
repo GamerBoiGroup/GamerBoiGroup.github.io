@@ -6,6 +6,11 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+#footer {
+  text-align: center;
+  min-width: 1000px;
+}
+
 #topbar {
   background-color: #222;
   height: 60px;
@@ -16,6 +21,7 @@ body {
   padding: 20px 10px 0 0;
 }
 
+#footer ul,
 #toplinks ul {
   list-style-type: none;
   margin: 0;
@@ -27,6 +33,7 @@ body {
   float: left;
 }
 
+#footer li a,
 #toplinks li a {
   color: #fff;
   text-align: center;
