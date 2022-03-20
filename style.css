@@ -17,6 +17,7 @@ body {
 #topbar {
   background-color: #222;
   height: 60px;
+  min-width: 400px;
 }
 
 #toplinks {
