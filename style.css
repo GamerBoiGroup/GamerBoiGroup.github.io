@@ -13,7 +13,7 @@ body {
 
 #toplinks {
   float: right;
-  padding: 15px 0 0 15px;
+  padding: 20px 10px 0 0;
 }
 
 #toplinks ul {
@@ -32,6 +32,7 @@ body {
   text-align: center;
   padding: 16px;
   text-decoration: none;
+  font-size: 20px;
   -webkit-transition: all 250ms ease-out;
   -ms-transition: all 250ms ease-out;
   transition: all 250ms ease-out;
@@ -47,7 +48,7 @@ body {
 #topbar .logo {
   float: left;
   font-size: 30px;
-  padding: 15px 0 0 15px;
+  padding: 15px 0 0 10px;
   -webkit-transition: all 250ms ease-out;
   -ms-transition: all 250ms ease-out;
   transition: all 250ms ease-out;
