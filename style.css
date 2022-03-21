@@ -7,6 +7,19 @@ body {
   text-align: center;
 }
 
+h1 {
+  font-size: 75px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+h5 {
+  font-size: 24px;
+  color: #bbb
+}
+
 #footer {
   padding: 10px;
   position: fixed;
