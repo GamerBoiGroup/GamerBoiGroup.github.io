@@ -110,6 +110,23 @@ h6 {
   transition: all 250ms ease-out;
 }
 
+.imgt .imgtl {
+  width: 50%;
+  float: left;
+  text-align: center;
+  padding: 80px 20px 20px 20px;
+  min-height: 250px;
+}
+
+.imgt .imgtr {
+  width: 50%;
+  margin-left: 50%;
+}
+
+.imgt img {
+  width: 30%;
+}
+
 #discordstats {
   background-color: #5663f7;
   padding: 20px;
